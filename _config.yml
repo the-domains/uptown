@@ -1,6 +1,6 @@
 name: uptown
 favicon: null
-layout_spectrum: 0.2719963970594108
+layout_spectrum: 0.48573
 typography_spectrum: 0.18678935919888318
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#3dc1c3'
+    - '#ffffff'
+    - '#d8f0f0'
+    - '#91d9db'
+    - '#58c7ca'
   brandStrength: 0.15862285974435508
   lightness: 0.4260366961825639
   saturation: 0.806188897928223
