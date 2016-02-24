@@ -4,21 +4,21 @@
         <description><![CDATA[inteligencia digital]]></description>
         <link>https://thegrid.ai/uptown/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 13:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 13:13:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/uptown/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c96a2398-0d47-49db-b73b-448cb98fded9.jpg">]]></description>
+            <link>https://thegrid.ai/uptown/b9429277-0a37-43fe-b212-6e3c7f71018c/index.html</link>
+            <guid isPermaLink="false">b9429277-0a37-43fe-b212-6e3c7f71018c</guid>
+            <pubDate>Wed, 24 Feb 2016 13:13:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bccbea70-5675-4dd4-bbe1-2c09cddff860.jpg">]]></description>
             <link>https://thegrid.ai/uptown/b5fa4b1d-605d-4f5c-9aff-e73c235219df/index.html</link>
             <guid isPermaLink="false">b5fa4b1d-605d-4f5c-9aff-e73c235219df</guid>
             <pubDate>Wed, 24 Feb 2016 13:12:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c96a2398-0d47-49db-b73b-448cb98fded9.jpg">]]></description>
-            <link>https://thegrid.ai/uptown/b9429277-0a37-43fe-b212-6e3c7f71018c/index.html</link>
-            <guid isPermaLink="false">b9429277-0a37-43fe-b212-6e3c7f71018c</guid>
-            <pubDate>Mon, 15 Feb 2016 20:40:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
