@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[uptown]]></title>
-        <description><![CDATA[uptown]]></description>
+        <title><![CDATA[inteligencia digital]]></title>
+        <description><![CDATA[inteligencia digital]]></description>
         <link>https://thegrid.ai/uptown/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 20:40:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 13:12:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/uptown/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bccbea70-5675-4dd4-bbe1-2c09cddff860.jpg">]]></description>
+            <link>https://thegrid.ai/uptown/b5fa4b1d-605d-4f5c-9aff-e73c235219df/index.html</link>
+            <guid isPermaLink="false">b5fa4b1d-605d-4f5c-9aff-e73c235219df</guid>
+            <pubDate>Wed, 24 Feb 2016 13:12:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c96a2398-0d47-49db-b73b-448cb98fded9.jpg">]]></description>
