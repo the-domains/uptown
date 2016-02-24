@@ -4,21 +4,21 @@
         <description><![CDATA[inteligencia digital]]></description>
         <link>https://thegrid.ai/uptown/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 14:02:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 14:04:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/uptown/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA["Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."]]></title>
+            <description><![CDATA[<article><h1>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</h1><p>alla ricerca del cielo</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b4a52e27afa4439e4238cc1cf877a3cdde1f7dc.jpg"></article>]]></description>
+            <link>https://thegrid.ai/uptown/b5fa4b1d-605d-4f5c-9aff-e73c235219df/index.html</link>
+            <guid isPermaLink="false">b5fa4b1d-605d-4f5c-9aff-e73c235219df</guid>
+            <pubDate>Wed, 24 Feb 2016 14:04:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[gioia e lolo]]></title>
             <description><![CDATA[<article><h1>gioia e lolo</h1><p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fececf714ce8890ab6cda81b111de193c8e45512.jpg"></article>]]></description>
             <link>https://thegrid.ai/uptown/b9429277-0a37-43fe-b212-6e3c7f71018c/index.html</link>
             <guid isPermaLink="false">b9429277-0a37-43fe-b212-6e3c7f71018c</guid>
             <pubDate>Wed, 24 Feb 2016 14:01:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."]]></title>
-            <description><![CDATA[<article><h1>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</h1><p>alla ricerca del cielo</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b4a52e27afa4439e4238cc1cf877a3cdde1f7dc.jpg"></article>]]></description>
-            <link>https://thegrid.ai/uptown/b5fa4b1d-605d-4f5c-9aff-e73c235219df/index.html</link>
-            <guid isPermaLink="false">b5fa4b1d-605d-4f5c-9aff-e73c235219df</guid>
-            <pubDate>Wed, 24 Feb 2016 14:02:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
