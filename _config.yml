@@ -1,6 +1,6 @@
 name: uptown
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.49394
 typography_spectrum: 0.16013
 title: inteligencia digital
 cta:
@@ -22,7 +22,7 @@ color:
     - '#3dc1c3'
     - '#a6a0a0'
     - '#8fdadc'
-  brandStrength: 0.25
+  brandStrength: 0.3125
   lightness: 0.4260366961825639
   saturation: 0.806188897928223
   rhythmicContrast: 0.4982131193391979
